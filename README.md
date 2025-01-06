@@ -42,11 +42,6 @@ The exercises make extensive use of the following R libraries:
 - `dbscan`: For density-based clustering.
 - `dplyr`: For data manipulation.
 
-## Getting Started
-To reproduce the analyses:
-1. Install the necessary R packages listed in the scripts.
-2. Load the provided R scripts into your R environment.
-3. Follow the code comments and modify parameters as needed.
 
 ## Example Visualizations
 Some of the visualizations generated include:
